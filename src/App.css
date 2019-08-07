@@ -31,3 +31,23 @@
     transform: rotate(360deg);
   }
 }
+
+.ruby {
+  background-color: red;
+}
+.tree {
+  background-color: green;
+}
+.metal {
+  background-color: gray;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.choiceContainer {
+  display: flex;
+  justify-content: space-around;
+}
